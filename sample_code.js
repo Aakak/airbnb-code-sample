@@ -1,3 +1,5 @@
+// A Sudoku React Web App populates data from API with a choice of over 5000 puzzles. 
+// By providing a user with the ability to play a game of Sudoku by choosing puzzle levels by difficulty and different themes
 
 
 const router = require('express').Router();
